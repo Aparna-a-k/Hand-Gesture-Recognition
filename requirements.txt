@@ -1,0 +1,13 @@
+#Tensorflow,Keras: for CNN
+----------------------------------
+
+#cv2: For image handling library:
+-----------------------------------
+
+#sklearn: For ANN
+------------------------------------
+
+#Matplotlib.pyplot : for plotting the data
+------------------------------------------
+
+#Jupyter Notebook
