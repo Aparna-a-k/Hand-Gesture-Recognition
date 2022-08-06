@@ -1,0 +1,16 @@
+1)Title: Hand Gesture recognition Database.
+
+2)Source: Version 1,created by Tomas Mantecon
+
+3)Information about data:
+     Hand gesture recognition database is presented, composed by a set of 
+     near infrared images acquired by the Leap Motion sensor. 
+     The dataset is composed of 10 different hand gestures by 10 different subjects(Men and women)
+     There are 10 different folders which contains sub-folders each containing different hand gestures like:
+     'palm','fist','fist moved','thumb','index','ok','palm moved','c','I','down'.
+     Each folder conatins 200 images each.
+
+
+4)Dataset link:
+https://www.kaggle.com/datasets/gti-upm/leapgestrecog
+
